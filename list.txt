@@ -1,9 +1,9 @@
-更新专用接口.json|20261004|4.2K|https://0.12yue.de5.net/tvbox/更新专用接口.json
-菠菜pro.json|20261004|95.2K|https://0.12yue.de5.net/5/x4pro.json
-幸福年年.json|20261004|41.0K|http://150.158.52.248/tgyg/bbm.json
-饭太硬.json|20261004|16.5K|http://www.饭太硬.net/tv
-嗷呜.json|20261004|21.4K|http://www.英格里希嗷呜.top/tv
-潇洒.json|20261004|707B|https://9877.kstore.space/single.json
+更新专用接口.json|20261006|4.2K|https://0.12yue.de5.net/tvbox/更新专用接口.json
+菠菜pro.json|20261006|95.2K|https://0.12yue.de5.net/5/x4pro.json
+幸福年年.json|20261006|41.0K|http://150.158.52.248/tgyg/bbm.json
+饭太硬.json|20261006|16.5K|http://www.饭太硬.net/tv
+嗷呜.json|20261006|21.4K|http://www.英格里希嗷呜.top/tv
+潇洒.json|20261006|707B|https://9877.kstore.space/single.json
 develop202.txt|20260928|92.3K|https://ztha.top/TVBox/lib/interface.txt|挺好线路|null|
 Kimentanm.m3u|20260928|21.4K|https://ztha.top/TVBox/lib/iptv.m3u|挺好线路|null|
 挺好直播.txt|20260928|4.6K|https://ztha.top/TVBox/tv/thtv.txt|挺好线路|null|
